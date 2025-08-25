@@ -1,1 +1,3 @@
 ini dari cmd
+ini dari vscode2
+vscode
